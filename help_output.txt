@@ -1,0 +1,24 @@
+
+ __      __         __         .__
+/  \    /  \_____ _/  |_  ____ |  |__   ___________
+\   \/\/   /\__  \\   __\/ ___\|  |  \_/ __ \_  __ \
+ \        /  / __ \|  | \  \___|   Y  \  ___/|  | \/
+  \__/\  /  (____  /__|  \___  >___|  /\___  >__|
+       \/        \/          \/     \/     \/
+Author: Bl4ckC3llSec / Cxb3rF1lthSec
+
+DISCLAIMER:
+For authorized, legal testing only! The author is not responsible for misuse.
+
+
+usage: watcher_ultimate.py [-h] [--threads THREADS] [--menu] [targets ...]
+
+Watcher | By Bl4ckC3llSec / Cxb3rF1lthSec
+
+positional arguments:
+  targets            Target domains or file (one per line)
+
+options:
+  -h, --help         show this help message and exit
+  --threads THREADS  Parallel scan threads
+  --menu             Show menu (default if no args)
